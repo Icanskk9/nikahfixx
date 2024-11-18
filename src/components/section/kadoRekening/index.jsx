@@ -6,21 +6,21 @@ const KadoRekening = () => {
     { 
       id: 1, 
       bank: '',
-      nomor: '085361616161', 
+      nomor: '085361269299', 
       nama: 'Muhammad Ichsan Nurzaman', 
       logo: '/images/danafix.png'
     },
     { 
       id: 2, 
       bank: '', 
-      nomor: '987-654-321', 
+      nomor: '123456789', 
       nama: 'Muhammad Ichsan Nurzaman', 
       logo: '/images/bankjago.png' 
     },
     { 
       id: 3, 
       bank: '', 
-      nomor: '456-789-123', 
+      nomor: '123456789', 
       nama: 'Muhammad Ichsan Nurzaman', 
       logo: '/images/seabank.png' 
     },
